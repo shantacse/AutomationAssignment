@@ -36,8 +36,11 @@ npm install -D allure-playwright
 npm install -g allure-commandline
 ```
 
-## ▶️ Run Test Cases
+## 🌐 Test Environment
+All test cases are executed on the SauceDemo web application:
+🔗 [https://www.saucedemo.com/](https://www.saucedemo.com/)
 
+## ▶️ Run Test Cases
 ```bash
 # Run all tests
 npm run test
